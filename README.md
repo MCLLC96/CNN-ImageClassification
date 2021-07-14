@@ -1,2 +1,2 @@
 # CNN-ImageClassification
-Proyecto que recoge varios modelos de redes neuronales convoluciones para la clasificación de imágenes de naturaleza.
+Modelos entrenados mediante redes neuronales convolucionales para la clasificación de imágenes de naturaleza.
